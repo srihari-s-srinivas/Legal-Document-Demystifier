@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Legal Document Demystifier",
+  "description": "An application to simplify complex legal documents. Upload a text file containing legal text, and the app will provide a plain-language summary, key takeaways, and definitions for legal jargon.",
+  "requestFramePermissions": []
+}
